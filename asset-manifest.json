@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//1st-award.github.io/StreamerNotice/static/css/main.2848c250.css",
+    "main.js": "/https//1st-award.github.io/StreamerNotice/static/js/main.83b15c6c.js",
+    "static/js/787.9637ec55.chunk.js": "/https//1st-award.github.io/StreamerNotice/static/js/787.9637ec55.chunk.js",
+    "index.html": "/https//1st-award.github.io/StreamerNotice/index.html",
+    "main.2848c250.css.map": "/https//1st-award.github.io/StreamerNotice/static/css/main.2848c250.css.map",
+    "main.83b15c6c.js.map": "/https//1st-award.github.io/StreamerNotice/static/js/main.83b15c6c.js.map",
+    "787.9637ec55.chunk.js.map": "/https//1st-award.github.io/StreamerNotice/static/js/787.9637ec55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2848c250.css",
+    "static/js/main.83b15c6c.js"
+  ]
+}
